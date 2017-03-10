@@ -9,3 +9,9 @@ https://github.com/usilitel/Miner_v3
     - перезапуск игры
     - обработка дополнительных событий мыши
     - изображения мин/флагов
+
+https://github.com/usilitel/ReportGenerator
+    Тестовое задание по генерации текстового отчета
+
+
+
