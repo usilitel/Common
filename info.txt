@@ -14,4 +14,8 @@ https://github.com/usilitel/ReportGenerator
     Тестовое задание по генерации текстового отчета. Отчет выводится в консоль.
 
 
+--------
+https://github.com/usilitel/FxTradeSystem
+    Торговая система для торговли на Forex (без Java, только VBA(Access) + Delphi + SQLServer)
+
 
