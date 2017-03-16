@@ -16,6 +16,6 @@ https://github.com/usilitel/ReportGenerator
 
 --------
 https://github.com/usilitel/FxTradeSystem
-    Торговая система для торговли на Forex (без Java, только VBA(Access) + Delphi + SQLServer)
+    Автоматизированная торговая система (для Forex) (без Java, только VBA(Access) + Delphi + SQLServer)
 
 
